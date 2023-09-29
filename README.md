@@ -9,3 +9,12 @@ All of our blockchain have an RPC URL built into the wallet , whenever we are co
 RPC URL the same way that we do it on _HARDHAT OR FOUNDRY_
 
 When we connect our wallet , we are connecting to the RPC URL
+
+### Ethereum JSON_RPC Methods
+
+#### Important methods from this API
+
+1. eth_accounts
+2. eth_call
+3. eth_getBalance
+4. eth_sign
